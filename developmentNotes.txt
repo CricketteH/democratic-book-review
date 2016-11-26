@@ -1,0 +1,8 @@
+*got permission from Goodreads to use reviews
+*limited by API limits
+*used Mashape N-Gram counter
+*Goodreads API
+*wordcloud2.js WordCloud generator from GitHub
+*Alchemy API for sentiment analysis
+*also limited by general positivity of reviews 
+*some trouble with Javascript's asynchronous calls
